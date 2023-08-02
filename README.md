@@ -15,4 +15,4 @@ I Studied Computer Science, and I'm currently
 
 
 ### Stats
-![Ramy's GitHub stats](https://github-readme-stats.vercel.app/api?username=letsgogeeky&count_private=true&show_icons=true&theme=tokyonight)
+![Ramy's GitHub stats](https://github-readme-stats.vercel.app/api?username=letsgogeeky&count_private=true&show_icons=true)
