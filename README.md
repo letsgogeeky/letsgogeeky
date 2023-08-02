@@ -4,7 +4,7 @@ I'm a senior software engineer (backend) @ IQVIA, I work on building software to
 I Studied Computer Science, and I'm currently 
 
 ### My GitHub says I write those languages, but I can argue that I can write other languages as well:
-![Top Languages](https://github-readme-stats.vercel.app/api?username=letsgogeeky)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=letsgogeeky)
 
 
 ### Find me here:
