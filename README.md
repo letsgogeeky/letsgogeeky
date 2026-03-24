@@ -10,11 +10,10 @@ I've used many tools and languages. I enjoy using many of them like Python, JS, 
 --->
 
 ### Find me here:
-- <a href="https://stackoverflow.com/users/3427252/ramy-m-mousa">Stackoverflow (Top 7% on the site)</a>
+- <a href="https://stackoverflow.com/users/3427252/ramy-m-mousa">Stackoverflow (Ancient history)</a>
 - <a href="https://www.linkedin.com/in/ramy-mousa/">LinkedIn</a>
-- <a href="https://medium.com/@ramymoussa">Medium</a>
-- <a href="https://www.quora.com/profile/Ramy-Mohamed-4">Quora</a>
-- <a href="https://www.goodreads.com/user/show/14454147-ramy-mohamed">GoodReads</a>
+
+[![AI Stack](https://aichitect.dev/badge?s=cursor,claude-code,v0,vercel-ai-sdk,langfuse,anthropic-api,langgraph)](https://aichitect.dev/builder?s=cursor,claude-code,v0,vercel-ai-sdk,langfuse,anthropic-api,langgraph)
 
 <!---
 ### Stats
