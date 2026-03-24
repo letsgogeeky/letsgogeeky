@@ -1,6 +1,6 @@
 ## Hello, This is Ramy
 
-I'm a senior software engineer @ Hema.to, I've been building software systems for more than a decade, and most recently focused on architecture and AI-spec driven development.
+I'm a senior software engineer @ Hema.to, and owner of [aichitect.dev](https://aichitect.dev). I've been building software systems for more than a decade, and most recently focused on architecture and AI-spec driven development.
 
 I've used many tools and languages. I enjoy using many of them like Python, JS, Go, GCP, NGINX, PostgreSQL, Sentry, Git, Docker, Django, Flask, ReactJs, C#.NET, and Ansible. However, I use the tool that fits the solution/requirements regardless of how much I like/dislike it.
 <!---
